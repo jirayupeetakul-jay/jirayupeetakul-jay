@@ -24,13 +24,14 @@ Fellowships
 
 Work experience
 ======
-* JAN-APR 2014: Research Assistant
+* JAN-APR 2014: Junior Embedded Engineer 
   * Design Gateway Co., Ltd. Bangkok, Thailand
   * Duties included: PCB design with Altium, PCB soldering, firmware programming with real-time operating systems (RTOS) on STM32F411 using C languages, and product verification before customer shipment
 
-* APR-SEP 2016: Research Assistant
+* APR-SEP 2016: Research Engineer
   * Nextremer Co., Ltd., Kochi, Japan
   * Duties included: developed foundation algorithms using Python for multimodal AI
+  
   
 Skills
 ======
@@ -84,10 +85,12 @@ Publications
 * J. Peetakul, W. San-um, An integrated real-time web-based power monitoring with mobile phone warning system”, Management and Innovation Technology International Conference (MITiCON2014), 2014.
 * J. Peetakul, S. Wangtawan, W. San-um, A New Algebraically Simple Chaotic Jerk Circuit and System using Memristor Nonlinearity, IEEE SCAP, Sep 2013.
 
+
 Academic services
 ======
 * IEEE ACCESS
 * IEEE Signal Processing Letter
+
 
 Japanese Patent
 ======
