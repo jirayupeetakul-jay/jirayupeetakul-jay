@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Hi there. If you are looking for crazy programmer, here I am!."
+title: "Hi there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+If you are looking for crazy programmer, here I am!.
 
 I am Jirayu Peetakul, Jay, originally from Thailand.
 
