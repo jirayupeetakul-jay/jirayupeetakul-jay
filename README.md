@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-If you are looking for software and hardware engineer, here I am!.
+**If you are looking for software and hardware engineer, here I am!.**
 
 I am Jirayu Peetakul, Jay, originally from Thailand.
 
