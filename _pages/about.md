@@ -16,8 +16,8 @@ I developed a dozen algorithms such as
 **low-latency data compression algorithms, image/video coding algorithms, and low-level program development for SoC/microcontroller and FPGA**. 
 My most recent experience is in 
 **digital signal processing, compressed sensing and sparse optimization**, 
-with the goal of developing a faster edge AI data acquisition device and model with centralized processing center. 
-I also developed a compression algorithm for an array sensor and imager based on compressed sensing. 
+with the goal of developing a **faster edge AI data acquisition device and model** with centralized processing center. 
+I also developed a compression algorithm for an array sensor and imager based on compressed sensing theory. 
 
 I am a quick learner in programming and can quickly adapt to new languages.
 Hiring me is well worth the cost.
