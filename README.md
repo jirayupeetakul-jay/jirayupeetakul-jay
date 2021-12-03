@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Hi there. If you are looking for crazy programmer, here I am!."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 I am Jirayu Peetakul, Jay, originally from Thailand.
 
 Currently, I am a Ph.D. student in applied informatics at Hosei University in Tokyo, Japan, and will graduate in March 2022. 
