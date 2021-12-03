@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -56,6 +56,7 @@ Skills
   * Eagle
   * Altium
 * Familiar Open-Source Libraries
+  * CVXopt
   * Fastest Fourier Transform in the West
   * Keil RTX RTOS
   * FreeRTOS
