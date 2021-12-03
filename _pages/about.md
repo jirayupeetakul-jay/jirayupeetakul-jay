@@ -11,7 +11,7 @@ I am a Ph.D. student in applied informatics at Hosei University in Tokyo, Japan,
 
 If you have any questions, please do not hesitate to contact me. 
 
-===
+======
 I mainly use programming languages:
 - C/C++
 - Embedded C. + RTOS (FreeRTOS and Keil RTX)
@@ -19,11 +19,13 @@ I mainly use programming languages:
 - MATLAB
 - Verilog/VHDL/HLS
 
+======
 Integrated Developer Environments (IDE) as the following:
 - VScode
 - Keil μVision
 - IAR Systems
 
+======
 Electronic design automation (EDA) as the following:
 - Intel Quartus
 - Vivado
