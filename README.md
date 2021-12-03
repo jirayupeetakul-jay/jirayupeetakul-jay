@@ -21,8 +21,8 @@ My most recent experience is in
 with the goal of developing a faster edge AI data acquisition device and model with centralized processing center. 
 I also developed a compression algorithm for an array sensor and imager based on compressed sensing. 
 
-I am a quick learner in programming and can quickly adapt to new languages.
-Hiring me is well worth the cost.
+I am a quick learner of programming languages and can quickly adapt to new ones.
+Hiring me is well worth the investment. 
 
 If you have any questions, please do not hesitate to contact me.
 
