@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
+Publications
+======
 * J. Peetakul and J. Zhou, Video coding framework for compressive video sensing, 2022 Data Compression Conference (DCC), Snowbird, UT, USA, 2022. (Under review)
 * J. Peetakul and J. Zhou, An Efficient Structured Measurement Matrix Based On Reordering Walsh Matrix, IEEE Signal Processing Letter (To be submitted)
 * J. Peetakul, Y. Fan and J. Zhou, "Intra Prediction Based Measurement Coding Algorithm for Block-Based Compressive Sensing Images," in IEEE Access, doi: 10.1109/ACCESS.2021.3068579.
@@ -16,3 +18,7 @@ author_profile: true
 * [Best paper award] J. Peetakul, W. San-um, A CMOS current-tunable CHAOTIC oscillator using approximated inverse, V-SHAPE nonlinearity, Management and Innovation Technology International Conference (MITiCON2014), 2014.
 * J. Peetakul, W. San-um, An integrated real-time web-based power monitoring with mobile phone warning system”, Management and Innovation Technology International Conference (MITiCON2014), 2014.
 * J. Peetakul, S. Wangtawan, W. San-um, A New Algebraically Simple Chaotic Jerk Circuit and System using Memristor Nonlinearity, IEEE SCAP, Sep 2013.
+
+Japanese Patent
+======
+* 発明の名称　：イメージング装置及び測定符号化装置 出願番号 ：特願2021-008179 本学整理番号：HU2019022
