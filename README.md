@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 If you are looking for software and hardware engineer, here I am!.
+
 I am Jirayu Peetakul, Jay, originally from Thailand.
 
 Currently, I am a Ph.D. student in applied informatics at Hosei University in Tokyo, Japan, and will graduate in March 2022. 
