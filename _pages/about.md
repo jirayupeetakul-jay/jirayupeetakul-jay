@@ -8,17 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-If you are looking for software and hardware engineer, here I am!.
-
 I am Jirayu Peetakul, Jay, originally from Thailand.
+I am Ph.D. student in applied informatics at Hosei University in Tokyo, Japan, and will graduate in March 2022. Throughout my academic career, I worked as a software and hardware developer, primarily in C/C++, Rust, Python, MATLAB, and Verilog/VHDL. I created a series of algorithms, including data compression algorithms for vector, matrix, and tensor data, as well as low-level program development on SoC/microcontroller and FPGA. 
 
-Currently, I am a Ph.D. student in applied informatics at Hosei University in Tokyo, Japan, and will graduate in March 2022. 
-I describe my experience as software and hardware programmer throughout my career, which mainly used C/C++, Rust, Python, MATLAB, R, Verilog/VHDL/HLS. 
-I developed a dozen algorithms such as low-latency data compression algorithms, image/video coding algorithms, and low-level program development for SoC/microcontroller and FPGA. 
-My most recent experience is in digital signal processing, compressed sensing, and sparse optimization to develop a faster edge AI data acquisition device and model with a centralized processing center.
-I also developed a compression algorithm for an array sensor and imager based on compressed sensing theory.
-
-I am a quick learner of programming languages and can quickly adapt to new ones.
+My most recent experience has already been in compressed sensing and sparse optimization, with the goal of developing faster data acquisition method and accelerating convex optimization using OpenCL and FPGA.
 
 If you have any questions, please do not hesitate to contact me.
 
